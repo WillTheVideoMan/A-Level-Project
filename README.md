@@ -1,5 +1,5 @@
 # A-Level Project
-My A-Level Computer science project is one which took too long and only just about works. Over the span of about 4000 lines I have made a tracking system for a school sponsored walk, using QR codes as the tracking medium, and an Android app as the scanner (Built with MIT App Inventor).
+My A-Level Computer science project is one which took too long and only just about works. Over the span of about 4000 lines I have made a tracking system for a school sponsored walk, using QR codes as the tracking medium, and an Android app as the scanner (Built with MIT App Inventor). The star of the show has to be the web app - A PHP backend supports a bunch of admin tasks and tracking ability for induvidual students.
 
 ### Some key and interesting facts: 
  - Full User Account Control;
