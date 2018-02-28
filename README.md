@@ -12,6 +12,12 @@ My A-Level Computer science project is one which took too long and only just abo
 
 A quote from me:
 
-> I really enjoyed spending time making this. 
+> "I really enjoyed spending time making this. 
 > But the best part HAS to be the writeup. 
-> Who dosen't like dry runs...
+> Who dosen't like dry runs..."
+
+[Click Here To Read The Writeup](https://github.com/WillTheVideoMan/A-Level-Project/blob/master/NEA_ASSESMENT_PDF_V2.pdf)
+
+Another quote from me:
+
+> "A-Levels are not a waste of time" - No-one, 2018
