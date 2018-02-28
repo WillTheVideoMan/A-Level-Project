@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-	<link rel="stylesheet" type="text/css" href="../main.css">
+	<link rel="stylesheet" type="text/css" href="../Project/main.css">
 	<link rel="icon" href="../Project/Resources/favicon.png" type="image/x-icon" />
 	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
