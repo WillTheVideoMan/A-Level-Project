@@ -5,6 +5,7 @@ My A-Level Computer science project is one which took too long and only just abo
  - Full User Account Control;
  - A Visual Overview
  - A Sorted Table
+ - Google OAuth 2 Included
  - Lot's of PHP
  - Many Tears
  
